@@ -4,12 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Product Analyst
 ------------------------------
 
-<a href='https://t.me/Kristina0107' target="_blank"><img alt="Static Badge"
-        src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=white&color=%233c9bd5"></a>
-<a href="mailto:kristina-r@bk.ru"><img alt="mail Badge"
-        src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
-<a href="mailto:kristina1987elektra@gmail.com"><img alt="gmail Badge"
-        src="https://img.shields.io/badge/Gmail-white?style=flat&logoColor=white&logo=gmail&color=%233c9bd5"></a>
+<div align="center">
+    <a href="https://t.me/Kristina0107" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="height: 30px; width: auto;" />
+  </a>
+    <a href="mailto:kristina1987elektra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="height: 30px; width: auto;" />
+  </a>
+     <a href="mailto:kristina-r@bk.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd" style="height: 30px; width: auto;" />
+  </a>
+ </div>
+
 
 
 ### Занимаюсь аналитикой больше 5 лет в сферах IT и услуг. 
