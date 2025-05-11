@@ -53,8 +53,8 @@ Data Analyst | Product Analyst
 * [Анализ рынка недвижимости](https://datalens.yandex/4qttj6batlooq?_no_controls=1&_theme=dark) 
 
 💹📄 SQL запросы:
+* [Анализ покупки внутриигровой валюты Ad hoc](https://github.com/Kristina107/SQL/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B8%20%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B.sql)
 * [Анализ рынка вакансий](https://github.com/Kristina107/SQL/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9.sql)
-* [Скоро обновление]()
 * [Скоро обновление]()
 
 🐍📓 Расширенный анализ данных (Python + Jupyter Notebook + Visual Studio Code):
