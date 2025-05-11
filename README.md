@@ -40,9 +40,17 @@ Data Analyst | Product Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina107) 
 
-
 <h3 align="center">Примеры работ 👇</h3>
 
 - 📊📈 Динамический дашборд построенный в Datalens: [Показатели медиаплатформы.]()
 - 💹📄 SQL запрос в рамках Ad-hoc задачи:  [Анализ рынка недвижимости.]()
 - 🐍📓 Анализ рынка общественного питания Москвы (Python + Jupyter Notebook): [Аналитическая записка.]()
+
+<summary align="left">📁 <strong>More information.</strong></summary>
+<ul align="left">
+    <li>🔭 I am currently working on both soft and hard skills.</li>
+    <li>🌱 I am currently studying</li>
+    <li>👯 I will be happy to join your projects!</li>
+    <li>😄 Pronouns: <code>[Kristina, Kristy, Kris, Tina]</code></li>
+    <li>⚡ Fun fact: <strong>I lived in China for a year and studied Chinese.</strong></li>
+</ul>
