@@ -47,10 +47,10 @@ Data Analyst | Product Analyst
 
 📊📈 Примеры визуализации, дашборды построенные в Datalens:
 * [Историческая сводка по конференциям TED](https://datalens.yandex/h2kgqbqb95zo4?_no_controls=1&_theme=dark)
+* [Итоги киберспортивого турнира](https://datalens.yandex/7snivaws5990u?_no_controls=1&_theme=dark)
 * [Расчёт бизнес-матрик сервиса доставки еды](https://datalens.yandex/gjf7f29ua2ys2?_no_controls=1&_theme=dark)
 * [Продуктовая воронка онлайн-кинотеатра](https://datalens.yandex/cetpwhabb8lky?_no_controls=1&_theme=dark)
-* [Анализ рынка недвижимости](https://datalens.yandex/4qttj6batlooq?_no_controls=1&_theme=dark)
-* [Итоги киберспортивого турнира](https://datalens.yandex/7snivaws5990u?_no_controls=1&_theme=dark)  
+* [Анализ рынка недвижимости](https://datalens.yandex/4qttj6batlooq?_no_controls=1&_theme=dark) 
 
 💹📄 SQL запросы:
 * [Анализ рынка вакансий](https://github.com/Kristina107/SQL/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9.sql)
