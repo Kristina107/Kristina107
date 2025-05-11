@@ -27,6 +27,7 @@ Data Analyst | Product Analyst
 <div align="left">
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"  />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  />  
+  <img src="https://img.shields.io/badge/DBeaver-4479A1?style=for-the-badge&logo=DBeaver&logoColor=white"  />  
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"  />
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"  />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-F37626?style=for-the-badge&logo=VSCode&logoColor=white"  />    
