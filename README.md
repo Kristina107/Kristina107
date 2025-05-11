@@ -42,10 +42,6 @@ Data Analyst | Product Analyst
     
 </div>
 
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina107) 
-
 <h3 align="center">Примеры работ 👇</h3>
 
 📊📈 Динамические дашборды построенные в Datalens:
@@ -65,6 +61,10 @@ Data Analyst | Product Analyst
 * [Показатели медиаплатформы.]()
 * [Показатели медиаплатформы.]()
 
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina107) 
 
 ## More information
 
