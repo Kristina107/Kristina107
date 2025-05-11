@@ -4,16 +4,31 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Product Analyst
 ------------------------------
 
-Занимаюсь аналитикой больше 5 лет. Больше всего меня заинтересовала продуктовая аналитика. С октября 2024 года я изучаю продуктовую аналитику на курсах Яндекс Практикум. В настоящий момент мое обучение почти завершено.
+Занимаюсь аналитикой больше 5 лет в сферах IT и услуг. Больше всего меня заинтересовала продуктовая аналитика. С октября 2024 года я изучаю продуктовую аналитику на курсах Яндекс Практикум, а также на других платформах.
 
 ### Skills
 
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  />  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"  />
+  <img src="https://img.shields.io/badge/VSCode-F37626?style=for-the-badge&logo=VSCode&logoColor=white"  />    
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Seaborn-404D5C?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Apache_Superset-404D5C?style=for-the-badge&logo=apache-superset&logoColor=white" />
+    
+</div>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Kristina107" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kristina107" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina107) 
+
+<h3 align="center">Примеры работ 👇</h3>
+
