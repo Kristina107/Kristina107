@@ -4,6 +4,10 @@
 
 
 <div align="center">
+  </a>
+    <a href="https://linkedin.com/in/kristina107" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height: 30px; width: auto;" />
+  </a>
     <a href="https://t.me/Kristina0107" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="height: 30px; width: auto;" />
   </a>
@@ -14,9 +18,7 @@
     <img src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd" style="height: 30px; width: auto;" />
   </a>
  </div>
-
-
-
+ 
 ### Занимаюсь аналитикой больше 5 лет в сферах IT и услуг. 
 Больше всего меня заинтересовала продуктовая аналитика. 
 С октября 2024 года я изучаю продуктовую аналитику на курсах Яндекс Практикум, а также на других платформах.
@@ -64,10 +66,6 @@
 💹🐍 A/B-тестирование 
 * [Разработка A/B-тестирования для нового алгоритма рекомендаций](https://github.com/Kristina107/Python/blob/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B9.ipynb)
 * [Скоро обновление]()
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristina107) 
 
 ## More information
 
