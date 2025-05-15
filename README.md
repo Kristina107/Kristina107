@@ -48,6 +48,7 @@
 📊📈 Примеры визуализации, дашборды построенные в DataLens:
 * [Историческая сводка по конференциям TED](https://datalens.yandex/h2kgqbqb95zo4?_no_controls=1&_theme=dark)
 * [Итоги киберспортивого турнира](https://datalens.yandex/7snivaws5990u?_no_controls=1&_theme=dark)
+* [Динамика ключевых метрик сервиса Яндекс Афиша](https://datalens.yandex/kzl6yrn3eqks6?_no_controls=1&_theme=dark)
 * [Расчёт бизнес-матрик сервиса доставки еды](https://datalens.yandex/gjf7f29ua2ys2?_no_controls=1&_theme=dark)
 * [Продуктовая воронка онлайн-кинотеатра](https://datalens.yandex/cetpwhabb8lky?_no_controls=1&_theme=dark)
 * [Анализ рынка недвижимости](https://datalens.yandex/4qttj6batlooq?_no_controls=1&_theme=dark) 
