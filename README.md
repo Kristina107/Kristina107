@@ -20,9 +20,9 @@
  </div>
  
 ### Experienced data analyst with a strong background in web analytics and online advertising.
-•   6+ years experience in IT.
-•   Currently enhancing my product analytics skills through courses EdTech of Yandex and others.
-•   Passionate about using data to drive product improvements and business growth.
+⭐️   6+ years experience in IT.
+⭐️   Currently enhancing my product analytics skills through courses EdTech of Yandex and others.
+⭐️   Passionate about using data to drive product improvements and business growth.
 
 ## 💻 Skills
 
