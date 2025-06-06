@@ -45,7 +45,7 @@
 
 <h3 align="center">Примеры работ 👇</h3>
 
-📊📈 Примеры визуализации, дашборды построенные в DataLens:
+💠 Примеры визуализации, дашборды построенные в DataLens:
 * [Историческая сводка по конференциям TED](https://datalens.yandex/h2kgqbqb95zo4?_no_controls=1&_theme=dark)
 * [Итоги киберспортивого турнира по DOTA 2](https://datalens.yandex/7snivaws5990u?_no_controls=1&_theme=dark)
 * [Динамика ключевых метрик сервиса Яндекс Афиша](https://datalens.yandex/kzl6yrn3eqks6?_no_controls=1&_theme=dark)
@@ -53,19 +53,19 @@
 * [Продуктовая воронка онлайн-кинотеатра](https://datalens.yandex/cetpwhabb8lky?_no_controls=1&_theme=dark)
 * [Анализ рынка недвижимости](https://datalens.yandex/4qttj6batlooq?_no_controls=1&_theme=dark) 
 
-Анализ данных с помощью SQL:
+💠 Анализ данных с помощью SQL:
 * [Ad hoc анализ покупки внутриигровой валюты](https://github.com/Kristina107/SQL/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B8%20%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B.sql)
 * [Ad hoc анализ рынка недвижимости](https://github.com/Kristina107/SQL/blob/main/Ad%20hoc%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8.sql)
 * [Анализ рынка вакансий](https://github.com/Kristina107/SQL/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9.sql)
 
-🐍📓 Расширенный анализ данных (Python + Jupyter Notebook + Visual Studio Code):
+💠 Расширенный анализ данных (Python + Jupyter Notebook + Visual Studio Code):
 * [Разведочный анализ данных (EDA) сервиса Яндекс Афиша](https://github.com/Kristina107/Python/blob/main/EDA%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb)
 * [Анализ рынка заведений общественного питания Москвы](https://github.com/Kristina107/Python/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B.ipynb)
 * [Исследование стартапов для инвесторов](https://github.com/Kristina107/Python/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B2.ipynb)
 * [Анализ активности пользователей сервиса Яндекс Книги](https://github.com/Kristina107/Python/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8.ipynb)
 * [Анализ рынка видеоигр](https://github.com/Kristina107/Python/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb)
 
-💹🐍 A/B-тестирование 
+💠 A/B-тестирование 
 * [Разработка A/B-тестирования для нового алгоритма рекомендаций](https://github.com/Kristina107/Python/blob/main/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B9.ipynb)
 * [AB-тестирование нового интерфейса интернет-магазина](https://github.com/Kristina107/Python/blob/main/AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb)
 
