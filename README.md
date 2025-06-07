@@ -26,7 +26,7 @@
 
 ⭐️   Passionate about using data to drive product improvements and business growth.
 
-## 💻 Skills
+## 💻 Skills 📚
 
 <div align="left">
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"  />
