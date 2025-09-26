@@ -80,7 +80,7 @@
 
 📊 ClickHouse
 
-* [Ad hoc анализ в ClickHouse]()
+* [Ad hoc анализ в ClickHouse](https://github.com/Kristina107/ClickHouse/blob/main/Ad_hoc_%D0%B2_ClickHouseipynb.sql)
 
 
 ## More information
