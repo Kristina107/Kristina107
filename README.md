@@ -82,6 +82,9 @@
 
 * [Ad hoc анализ в ClickHouse](https://github.com/Kristina107/ClickHouse/blob/main/Ad_hoc_%D0%B2_ClickHouseipynb.sql)
 
+📈 PySpark
+
+* [Стратегия оптимизации вовлечения на основе поведенческого анализа в PySpark]()
 
 ## More information
 
