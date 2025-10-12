@@ -43,8 +43,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />  
   <img src="https://img.shields.io/badge/Seaborn-404D5C?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white"  />
-  <img src="https://img.shields.io/badge/ClickHouse-404D5C?style=for-the-badge&logo=clickhouse&logoColor=white" />
-    
+  <img src="https://img.shields.io/badge/ClickHouse-404D5C?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />  
 </div>
 
 <h3 align="center">Примеры работ 👇</h3>
