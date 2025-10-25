@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white"  />
   <img src="https://img.shields.io/badge/ClickHouse-404D5C?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />  
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
 </div>
 
 <h3 align="center">Примеры работ 👇</h3>
@@ -88,7 +89,7 @@
 
 🌐 AirFlow
 
-* [Автоматизация аналитики сервиса Яндекс Книги с использованием Airflow и PySpark]()
+* [Автоматизация аналитики сервиса Яндекс Книги с использованием Airflow и PySpark](https://github.com/Kristina107/PySpark/blob/main/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20Airflow%20%D0%B8%20PySpark.py)
 
 ## More information
 
