@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Kristina</h1>
 
-<h3 align="center">Data Analyst | Product Analyst </h3>
+<h3 align="center">Data Analyst | System Analyst </h3>
 
 
 <div align="center">
