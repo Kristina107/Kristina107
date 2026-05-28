@@ -99,5 +99,4 @@
     <li>🌱 I am currently studying</li>
     <li>👯 I will be happy to join your projects!</li>
     <li>😄 Pronouns: <code>[Kristina, Kristy, Kris, Tina]</code></li>
-    <li>⚡ Fun fact: I lived in China for a year and studied Chinese.</li>
 </ul>
